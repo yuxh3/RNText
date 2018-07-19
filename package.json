@@ -1,0 +1,18 @@
+{
+  "name": "hh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-native": "^0.56.0",
+    "react-native-deprecated-custom-components": "^0.1.2",
+    "react-native-tab-navigator": "^0.3.4"
+  }
+}
